@@ -1,0 +1,28 @@
+
+
+nav{
+    padding-top: 70 px;
+}
+.d-flex{
+    height: 30px;
+    width: 500px;
+    position:relative;
+}
+
+section{
+    margin-bottom: 20px;
+    width: 300px;
+}
+#video1{
+    background-color: green;
+}
+
+#video2{
+    background-color: blue;
+}
+
+#video3{
+    background-color: yellowgreen;
+}
+
+
