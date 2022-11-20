@@ -1,11 +1,21 @@
-body{
-    padding: 20px;
-    background-color: orangered;
 
+
+ #content{
+
+     background: yellow ;
+     text-align: center;
+ }
+body{
+    background-color: bisque;
+  
+}
+.navbar-brand{
+    padding: 20px;
 }
 
-nav{
-    padding-top: 70 px;
+#videos{
+    padding-left: 20px;
+    
 }
 .d-flex{
     height: 30px;
